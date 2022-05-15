@@ -1,0 +1,11 @@
+.container {
+	width: 500px;
+	height: 150px;
+
+	background: lightgrey;
+	border: 2px solid red;
+}
+
+.qwerty {
+	color:  red;
+}
